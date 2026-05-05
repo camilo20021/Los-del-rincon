@@ -21,7 +21,7 @@
     <h2>Gustos Personales</h2>
     <h3>Les mostrare mis gustos personales </h3>
     <ul type="disc">
-   <li>regueton</li>
+   <li>POP</li>
    <li>Popular</li>
    <li>Vachata</li>
     </ul>
@@ -33,9 +33,9 @@
     </ul>
 <h3>Pelicula Favorita</h3>
  <ul type="disc">
-   <li>Toy Story</li>
-   <li>Rapidos & Furiosos</li>
-   <li>Tron </li>
+   <li>Rubias19</li>
+   <li>Redtube</li>
+   <li>Xvideos</li>
     </ul>
 
     <p>QUE BRAYAN TRAIGA ALGO<p>
