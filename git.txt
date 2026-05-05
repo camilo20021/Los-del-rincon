@@ -21,11 +21,7 @@
     <h2>Gustos Personales</h2>
     <h3>Les mostrare mis gustos personales </h3>
     <ul type="disc">
-<<<<<<< HEAD
-   <li>salsa</li>
-=======
    <li>Pop</li>
->>>>>>> d091fd21ede633593ac2ccd115debe80221f7c8c
    <li>Popular</li>
    <li>Vachata</li>
     </ul>
