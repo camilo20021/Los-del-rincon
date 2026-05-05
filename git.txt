@@ -21,7 +21,7 @@
     <h2>Gustos Personales</h2>
     <h3>Les mostrare mis gustos personales </h3>
     <ul type="disc">
-   <li>KPOP</li>
+   <li>regueton</li>
    <li>Popular</li>
    <li>Vachata</li>
     </ul>
