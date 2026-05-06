@@ -21,6 +21,7 @@
     <h2>Gustos Personales</h2>
     <h3>Les mostrare mis gustos personales </h3>
     <ul type="disc">
+   <li>Popper</li>
    <li>Guaracha</li>
    <li>Popular</li>
    <li>Vachata</li>
