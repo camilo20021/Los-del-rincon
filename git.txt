@@ -34,11 +34,7 @@
     </ul>
 <h3>Pelicula Favorita</h3>
  <ul type="disc">
-<<<<<<< HEAD
-   <li>PORNOHUB</li>
-=======
    <li>Youporn</li>
->>>>>>> 1f87862f384a455bd3f9d9998ade59eee29877d8
    <li>Redtube</li>
    <li>Xvideos</li>
     </ul>
