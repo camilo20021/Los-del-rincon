@@ -13,9 +13,25 @@ hr{
     margin: 20px 0;
 }
 header{
+    position: relative;
     text-align: center;
     padding: 20px;
     color: #06402B;
+}
+
+.btnInicio{
+    position: absolute;
+    top: 30px;
+    right: 20px;
+    background-color: #13583f;
+    color: white;
+    padding: 10px 10px;
+    text-decoration: none;
+    border-radius: 18px;
+    font-size: 15px;
+}
+.btnInicio:hover{
+    background-color: #06402B;
 }
 
 h2{
@@ -89,3 +105,5 @@ strong{
 .int6{ grid-column: span 1}
 
 .contacto{ text-align: left; }
+
+
