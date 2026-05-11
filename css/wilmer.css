@@ -104,6 +104,39 @@ strong{
 .int5{ grid-column: span 1}
 .int6{ grid-column: span 1}
 
-.contacto{ text-align: left; }
+/* ________________________________ FOOTER ________________________________________________ */
+
+.contacto {
+    padding: 40px 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.infoContacto {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.contacto ul { list-style: none; }
+
+.contacto ul li { margin-bottom: 10px; }
+
+.contacto a { text-decoration: none; }
+
+.listaRedes img {
+    width: 24px;
+    height: 24px;
+}
+
+.listaRedes {
+    display: flex;
+    flex-direction: row;
+    padding: 10px 20px;
+    gap: 15px;
+}
+
+
 
 
