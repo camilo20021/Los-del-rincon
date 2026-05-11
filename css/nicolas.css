@@ -6,20 +6,22 @@
 }
 
 body{
-    background: #f4f6f9;
-    color: #222;
+    background-image: url('https://tse1.mm.bing.net/th/id/OIP.5QgnB4aKu9b34eEi5jBGEwHaDz?rs=1&pid=ImgDetMain&o=7&rm=3');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
     line-height: 1.6;
     padding: 40px;
 }
 
 header{
-    background: #1e293b;
-    color: white;
+    background: rgba(0, 0, 0, 0.75);
     text-align: center;
     padding: 40px;
     border-radius: 15px;
     margin-bottom: 30px;
-    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.4);
 }
 
 header h1{
@@ -35,21 +37,16 @@ header h2{
 }
 
 section{
-    background: white;
+    background: rgba(0, 0, 0, 0.75);
     margin-bottom: 25px;
     padding: 30px;
     border-radius: 15px;
     border-left: 8px solid #2563eb;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-    transition: transform 0.3s ease;
-}
-
-section:hover{
-    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.4);
 }
 
 section h2{
-    color: #1e3a8a;
+    color: #60a5fa;
     margin-bottom: 15px;
     font-size: 28px;
 }
@@ -65,29 +62,23 @@ ul{
 }
 
 ul li{
-    background: #eef2ff;
+    background: rgba(255,255,255,0.1);
     margin-bottom: 12px;
     padding: 15px;
     border-radius: 10px;
-    border: 1px solid #c7d2fe;
+    border: 1px solid rgba(255,255,255,0.2);
     font-size: 16px;
-    transition: 0.3s;
-}
-
-ul li:hover{
-    background: #dbeafe;
-    transform: scale(1.02);
 }
 
 section:last-child{
     text-align: center;
-    border-left: 8px solid #0f172a;
+    border-left: 8px solid #0ea5e9;
 }
 
 section:last-child p{
     font-weight: bold;
     font-size: 18px;
-    color: #111827;
+    color: #ffffff;
 }
 
 @media (max-width: 768px){
