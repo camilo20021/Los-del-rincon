@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-image: url('https://tse1.mm.bing.net/th/id/OIP.5QgnB4aKu9b34eEi5jBGEwHaDz?rs=1&pid=ImgDetMain&o=7&rm=3');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+    line-height: 1.6;
+    padding: 40px;
+}
+
+header{
+    background: rgba(0, 0, 0, 0.75);
+    text-align: center;
+    padding: 40px;
+    border-radius: 15px;
+    margin-bottom: 30px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.4);
+}
+
+header h1{
+    font-size: 42px;
+    margin-bottom: 10px;
+    letter-spacing: 2px;
+}
+
+header h2{
+    font-size: 22px;
+    font-weight: normal;
+    color: #dbeafe;
+}
+
+section{
+    background: rgba(0, 0, 0, 0.75);
+    margin-bottom: 25px;
+    padding: 30px;
+    border-radius: 15px;
+    border-left: 8px solid #2563eb;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.4);
+}
+
+section h2{
+    color: #60a5fa;
+    margin-bottom: 15px;
+    font-size: 28px;
+}
+
+section p{
+    font-size: 17px;
+    text-align: justify;
+}
+
+ul{
+    list-style: none;
+    margin-top: 15px;
+}
+
+ul li{
+    background: rgba(255,255,255,0.1);
+    margin-bottom: 12px;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid rgba(255,255,255,0.2);
+    font-size: 16px;
+}
+
+section:last-child{
+    text-align: center;
+    border-left: 8px solid #0ea5e9;
+}
+
+section:last-child p{
+    font-weight: bold;
+    font-size: 18px;
+    color: #ffffff;
+}
+
+@media (max-width: 768px){
+
+    body{
+        padding: 20px;
+    }
+
+    header{
+        padding: 25px;
+    }
+
+    header h1{
+        font-size: 32px;
+    }
+
+    section{
+        padding: 20px;
+    }
+
+    section h2{
+        font-size: 24px;
+    }
+}
